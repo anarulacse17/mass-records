@@ -1,0 +1,207 @@
+
+*{
+	scroll-behavior: smooth;
+}
+.Back{
+ background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)) ,url(massback.jpg);
+ background-size:100%;
+ background-position:center;
+ background-attachment:sticky;
+ background-repeat: no-repeat;
+ height:100vh;
+ padding-top: 20px;
+
+}
+.fontf{
+	font-family: "Trebuchet MS",Sans-Serif,Normal;
+	font-weight: 100;
+	font-size: 20px;
+	
+	color:white;
+}
+
+.logo
+{
+	display: block;
+  margin-left: 39.5%;
+  margin-right: auto;
+  width: 20%;
+  height: 15%;
+ top:30px;
+position: absolute;
+}
+.head
+{
+	font-size:35px;
+    margin-left:45%;
+	margin-right:auto;
+	background-color:transparent;
+	top:5px;
+	text-align:center;
+	text-align:justify;
+	padding-bottom:25px;
+}
+.fontf2{
+	font-family: "Courier New", cursive;
+	color:#f3efe6;
+	font-size:20px;
+	font-weight:100;
+
+
+}
+.para{
+	font-size:20px;
+	border-style: solid;
+	border-size:1px;
+position: relative
+top:30px;
+background-color:black;
+margin-left:16%;
+margin-right: auto;
+
+}
+
+.fbicon{
+	height: 5%;
+	background-color:transparent;
+	position: absolute;
+   top:1.5%;
+   right:70px;
+}
+.instaicon
+	{
+	height: 5%;
+	background-color:transparent;
+	position: absolute;
+   top:1.5%;
+   right:40px;
+}
+.picon{
+	height: 5%;
+	background-color:transparent;
+	position: absolute;
+   top:1.5%;
+   right:10px;
+
+}
+
+
+.fontf3{
+	  font-family: 'Oswald', sans-serif;
+	font-size: 14px;
+	font-weight: 100;
+
+}
+.Back4
+{
+		background-image: url(back5.png);
+	height:140vh;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+	top:0;
+	position: sticky;
+	background-attachment: fixed;
+
+
+}
+.player
+{
+	top:10%;
+	padding-top: 3%;
+	padding-left: 6.5%;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+body {
+  margin: 0px;
+}
+nav {
+  margin-top:0px;
+  padding: 5px;
+  text-align: left;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+  color:#d0cec2;
+
+
+}
+#nav-1 {
+  background: transparent;
+
+}
+.link-1 {
+  transition: 0.3s ease;
+  background: transparent;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  border-top: 2px solid #d0cec2;
+  border-bottom: 2px solid #d0cec2;
+  padding: 10px 0;
+  margin: 0 15px;
+}
+.link-1:hover {
+  border-top: 2px solid #b45827;
+  border-bottom: 2px solid #b45827;
+  padding: 4px 0; 
+  color: #b45827
+}
+  * {
+  box-sizing: border-box;
+}
+
+
+
+.page3
+{
+	background-image:url(headp.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height:120vh;
+	position: relative;
+}
+
+
+.page4{
+height: 100vh;
+position: relative;
+background-image: url(guitar5.jpg);
+ background-size:100%;
+ background-position:center;
+ background-attachment:sticky;
+ background-repeat: no-repeat;
+}
+.headings{
+margin-left: auto;
+margin-right: auto;
+padding-left: 42%;
+padding-top: 1.5%;
+
+font-size: 60px;
+}
+.fontf4{
+	   font-family: 'Oswald', sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+
+}
+.fontf6{
+
+	color: white;
+	font-family: 'Abel', sans-serif;
+	font-size: 25px;
+}
+.font
+{
+	font-family: 'Abel', sans-serif;
+	font-size: 55px;
+	color:white;
+}
+.heading2{
+	margin-left: auto;
+margin-right: auto;
+padding-left: 42%;
+padding-top: 1.5%;
+
+font-size: 60px;
+}
